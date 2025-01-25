@@ -1,8 +1,8 @@
 # Iranian-Coin-Recognotion using Matlab
 
-This MATLAB s![binary_circles_and_labels_with_sum](https://github.com/user-attachments/assets/a1ea42b0-f415-46f3-bc24-b6704c9a52d2)
+![binary_circles_and_labels_with_sum](https://github.com/user-attachments/assets/a1ea42b0-f415-46f3-bc24-b6704c9a52d2)
 
-cript implements a rule-based algorithm to identify and calculate the total value of Iranian coins present in an image.
+This MATLAB script implements a rule-based algorithm to identify and calculate the total value of Iranian coins present in an image.
 
 ## Overview
 
