@@ -1,5 +1,8 @@
 # Iranian-Coin-Recognotion using Matlab
 
+![Uploading image.png…]()
+
+
 This MATLAB script implements a rule-based algorithm to identify and calculate the total value of Iranian coins present in an image.
 
 ## Overview
