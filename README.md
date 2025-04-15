@@ -34,9 +34,6 @@ The algorithm works as follows:
 4.  **Coin Classification and Value Calculation:**
     *   The area of each object is compared against predefined ranges.
     *   Based on these ranges, each object is assigned a value corresponding to a specific Iranian coin denomination:
-       *   Areas between 15000 and 19000 pixels are identified as 1000 Rial coins.
-       *   Areas between 19000 and 24000 pixels are identified as 2000 Rial coins.
-       *   Areas between 24000 and 30000 pixels are identified as 5000 Rial coins.
     *   The total value of the identified coins is calculated by summing the values of each detected coin.
 
 5.  **Visualization and Output:**
@@ -44,20 +41,11 @@ The algorithm works as follows:
     *   The detected coins are labeled with their corresponding value.
     *   The final calculated total value is displayed below the processed image.
 
-## Files
-
-*   `main.m`: (Replace `main.m` with the actual name of your MATLAB script file) This is the main MATLAB script file that implements the coin recognition algorithm.
-*   `1_4.png` : An example input image of coins.
-
 ## Usage
 
 1.  Ensure you have MATLAB installed on your system.
 2.  Place the MATLAB script file and the image(s) you want to process in the same directory.
 3.  Run the MATLAB script from the MATLAB command window or by pressing the "Run" button in the editor.
-
-## Dependencies
-
-*   MATLAB Image Processing Toolbox (for functions like `imread`, `im2bw`, `imfill`, `bwareaopen`, `regionprops`, `viscircles`)
 
 ## Future Improvements
 
